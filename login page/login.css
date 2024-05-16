@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.loginn{
+    font-size: 50px;
+}
+body{
+    border: 2px solid black;
+    margin: 50px;
+    padding: 2rem 1rem;
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 200px;
+    background-image: url(l3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.input1{
+    margin-top: 10px;
+
+}    
+.pass{
+    margin-top: 10px;
+}
+.reme{
+    margin-top: 10px;
+
+}
+.forgo{
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 10px;
+}
+.regi{
+    margin-top: 10px;
+}
